@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      hola
+      che juanma esta hablando desde una radio del 1800
     </div>
   );
 }
