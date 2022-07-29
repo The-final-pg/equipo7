@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      ME harte de que esto no ande
+      Esto anda o no anda? 
     </div>
   );
 }
